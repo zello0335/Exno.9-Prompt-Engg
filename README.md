@@ -1,9 +1,11 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+# Exno.9-To Explore And Understand The Various Prompting Techniques Used For Generating Videos Through AI Models. 
 
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+## Date: 06/11/2025
+## Register No: 212222060011
+### Aim:
+To perform the Exploration of Prompting Techniques for Video Generation
+### Algorithm: 
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -32,15 +34,25 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: The Prompt of the above task executed successfully
+### Input and Output: 
+Video Generation: 
+prompt 1:A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene.
+
+https://github.com/user-attachments/assets/5cfa5dc7-2e68-4123-a1ac-a5d21aa3baed
+
+
+prompt 2:A high-octane, realistic car chase scene through a bustling urban city at night, featuring two sleek sports cars—one red, one black—racing at high speed. Skyscrapers with neon lights reflect off wet streets from recent rain. Tire smoke, sparks from collisions, and motion blur add intensity. Police cars with flashing blue and red lights are in pursuit. Broken glass, scattered debris, and dramatic lighting enhance the chaotic atmosphere. Rain droplets on camera lens, cinematic camera angle from a low perspective behind the chasing car. High-detail textures, realistic lighting and shadows, dynamic motion, photorealistic, ultra-detailed, 8K resolution, cinematic style.
+
+https://github.com/user-attachments/assets/19997203-7ba0-4a8a-b847-cb292afc2b97
+
+### More Sample Videos
+
+https://github.com/user-attachments/assets/e35fe303-8c3a-45d1-aea3-471a52859ffa
+
+
+https://github.com/user-attachments/assets/f10b2588-0430-4270-bbff-a90ab323fcd7
 
 
 
-
-
-
-
-
-
-# Result:
-
+### Result:
+The Prompt of the above task executed successfully
